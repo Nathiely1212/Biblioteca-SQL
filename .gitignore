@@ -1,0 +1,17 @@
+# Arquivos temporários e do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configurações locais e credenciais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Backups e dumps locais
+*.bak
+*.backup
+*.dump
+*.sql.gz
